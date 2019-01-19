@@ -1,0 +1,15 @@
+name: PluginCarton
+main: io.github.nicknazari.PluginCarton.PluginCarton
+version: 1
+author: airpod_salesman
+commands:
+  gamble:
+    description: Gambling.
+    usage: /gamble
+    permission: 
+    permission-message:
+  spleef:
+    description: Spleef.
+    usage: /spleef
+    permission:
+    permission-message: 
